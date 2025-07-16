@@ -1,0 +1,100 @@
+📌 PROYEK WEBSITE PORTOFOLIO RICKY FERNANDO (VERSI FINAL FUTURISTIK PRESISI)
+
+👤 PROFIL
+- Nama: Ricky Fernando
+- Profesi: Soundman profesional konser
+- Tujuan: Website portofolio pribadi yang presisi, profesional, dan futuristik
+
+🎨 GAYA DESAIN
+- Tema: Futuristik Minimal & Profesional
+- Efek: Glassmorphism, transparansi, neon, blur, animasi presisi
+- Warna dominan: Hitam, Cyan/Neon
+- Font utama: Orbitron (Google Fonts)
+- Layout: Responsif, simetris, elegan, bersih
+- Mobile Friendly: ✅
+- Maskot: https://i.postimg.cc/3JRK049Q/1752580840791.png
+
+📂 STRUKTUR HALAMAN
+1. Navigasi dropdown futuristik (sticky)
+2. Header marquee informasi konser
+3. Widget jam real-time
+4. Tombol CV & AI assistant (floating, kanan bawah, presisi vertikal)
+5. AI Assistant interaktif (popup, blur, suara efek, kirim ke email)
+6. Section Tentang Saya (profil profesional)
+7. Section Portofolio (6 foto konser dengan deskripsi sesuai foto)
+8. Section Galeri Konser (18 foto dalam 4 kolom kecil, hover scale)
+9. Section YouTube Shorts (embed grid, sebelum kontak)
+10. Section Kontak: WhatsApp, Email, Instagram
+
+🖼 LINK GAMBAR GALERI KONSER (18 GAMBAR)
+https://i.postimg.cc/BnLgz3mZ/IMG-20240810-192041-066.jpg  
+https://i.postimg.cc/Z5tBThT5/1730896147186.jpg  
+https://i.postimg.cc/vH6xFmwK/IMG-20250116-192423-004.jpg  
+https://i.postimg.cc/V6L03Bz9/IMG-20250221-202310116-BURST0020.jpg  
+https://i.postimg.cc/RVjfNHT9/IMG-20250313-171251-774.jpg  
+https://i.postimg.cc/zfNgkYMc/IMG-20250419-102818-249.jpg  
+https://i.postimg.cc/k41R9650/IMG-20250628-165924-557.jpg  
+https://i.postimg.cc/jSxWW4Jp/Screenshot-20250613-101426.jpg  
+https://i.postimg.cc/ZYNvXRSM/Screenshot-20250716-062836.jpg  
+https://i.postimg.cc/15ZVSQR5/Screenshot-20250716-062902.jpg  
+https://i.postimg.cc/Fz0fSPp4/Screenshot-20250716-062957.jpg  
+https://i.postimg.cc/FRMd7tjp/Screenshot-20250716-063107.jpg  
+https://i.postimg.cc/HLP718nf/Screenshot-20250716-063137.jpg  
+https://i.postimg.cc/pLCFk6HV/Screenshot-20250716-063210.jpg  
+https://i.postimg.cc/5ttFrS4B/Screenshot-20250716-063231.jpg  
+https://i.postimg.cc/6324W6GT/Screenshot-20250716-063251.jpg  
+https://i.postimg.cc/RhvmPX99/Screenshot-20250613-101426-1.jpg  
+https://i.postimg.cc/xdGFsYdJ/Screenshot-20250613-101827-1.jpg  
+
+🎬 VIDEO YOUTUBE SHORTS
+- Letakkan sebelum bagian kontak
+- Format grid 3 kolom di desktop, responsif mobile
+
+📁 PORTOFOLIO
+- Hanya 6 gambar terpilih dari galeri
+- Setiap gambar harus diberi deskripsi sesuai isi foto
+- Layout rapi, presisi, elegan
+
+💬 KONTAK
+- WhatsApp: 081513624314
+- Email: pucha.anime@gmail.com
+- Instagram: https://www.instagram.com/puchapoii/
+
+🤖 AI ASSISTANT
+- Desain futuristik, popup blur
+- Efek suara saat dibuka
+- Maskot sebagai avatar
+- Kirim pesan ke email pucha.anime@gmail.com
+- Presisi posisi di kanan bawah (bawah tombol CV)
+
+📱 TOMBOL CV
+- Posisi kanan bawah di atas AI assistant
+- Ukuran sama presisi dengan ikon AI
+- Bentuk bulat, efek neon
+
+🧩 WIDGET FUTURISTIK (min. 10)
+1. Jam digital futuristik (real-time)
+2. Efek audio buka AI
+3. Hover animasi pada tombol
+4. Scroll smooth
+5. Visitor count (opsional dummy)
+6. Mode gelap otomatis
+7. Typing animation (opsional)
+8. Glowing border saat hover
+9. Loading animasi
+10. Fade-in konten saat scroll
+
+🌀 ANIMASI PRESISI (min. 15)
+- fadeInUp, fadeIn, slideIn, hover grow, neon blink
+- transisi smooth di semua elemen
+- Buka AI = animasi masuk
+- Navigasi scroll = animasi fade muncul
+- Galeri hover = zoom halus
+
+✅ FITUR FINAL
+- Semua elemen tidak boleh tumpang tindih
+- Tidak ada bug: AI popup harus bisa hilang
+- Ukuran tombol dan posisi harus responsif mobile
+- 4 kolom galeri kecil, rapat namun tidak menempel
+- Semua link aktif
+- Preview dan ZIP akhir siap setelah HTML final
